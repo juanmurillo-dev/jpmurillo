@@ -58,6 +58,7 @@ Currently learning **Java** and **Python**, with a strong interest in **Data Sci
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jpmurillo-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jpmurillo)
 [![Telegram](https://img.shields.io/badge/Telegram-@juanp_murillo-2CA5E0?style=flat&logo=telegram)](https://t.me/juanp_murillo)
+[![Gmail](https://img.shields.io/badge/Gmail-juampismurillo64@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juampismurillo64@gmail.com)
 
 ---
 
